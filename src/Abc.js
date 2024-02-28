@@ -5,6 +5,7 @@ const Abc = () => {
         <div>
             Hashim
             <p>Git crash</p>
+            <p>merge</p>
         </div>
     )
 }
